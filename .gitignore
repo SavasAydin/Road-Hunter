@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 bin
 .metadata
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 944ac98b52ef8576ec76faad39495bb9069c7f01
